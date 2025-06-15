@@ -1,0 +1,63 @@
+# Node.js
+node_modules/
+dist/
+build/
+.env
+.DS_Store
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+# Coverage directory
+coverage/
+
+# Editor directories and files
+.idea/
+.vscode/
+*.iml
+
+# OS generated files
+.DS_Store
+.Trash
+Thumbs.db
+
+# NestJS specific
+*.tsbuildinfo
+/backend/dist/
+/backend/*.log
+/backend/coverage/
+
+# ReactJS specific
+/frontend/build/
+/frontend/dist/
+/frontend/*.log
+/frontend/coverage/
+
+# Optional: if you have local configs not to commit
+# /backend/src/config/*.local.ts# OS generated files
+.DS_Store
+.Trash
+Thumbs.db
+
+# NestJS specific
+*.tsbuildinfo
+/backend/dist/
+/backend/*.log
+/backend/coverage/
+
+# ReactJS specific
+/frontend/build/
+/frontend/dist/
+/frontend/*.log
+/frontend/coverage/
+
+# Optional: if you have local configs not to commit
+# /backend/src/config/*.local.ts
+
+
